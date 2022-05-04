@@ -5,5 +5,7 @@
   font-weight: bold;
   align-self: center;
   z-index: 1;
+  margin: 0;
   margin-left: 64px;
+
 }
