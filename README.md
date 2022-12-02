@@ -1,4 +1,5 @@
 # Научиться учиться
+https://ev-climb.github.io/how-to-learn/
 ##### Учебный проект от ЯндексПрактикум
 ---
 
@@ -7,5 +8,3 @@
 Стек
 ---
 HTML5, CSS3
-
-https://ev-climb.github.io/how-to-learn/
